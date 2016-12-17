@@ -1,3 +1,4 @@
 # demo2
 
-test GitHub
+test GitHub avec clonage sur ma machine
+
